@@ -22,3 +22,9 @@ En esta clase vemos visualcode y repositorios en git
 Hector Guerrero
 
 En esta clase vemos como diseñar videojuegos de una manera bonita
+
+## Composición y diseño
+
+Roberto Melo
+
+en esta clase vemos principios sobre composición y diseño grafico
