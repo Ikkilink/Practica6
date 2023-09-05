@@ -16,3 +16,9 @@ En esta clase se ve ciberseguridad y mantenimiento de sistemas operativos
 Jon mircha
 
 En esta clase vemos visualcode y repositorios en git
+
+## Diseño de Videojuegos
+
+Hector Guerrero
+
+En esta clase vemos como diseñar videojuegos de una manera bonita
